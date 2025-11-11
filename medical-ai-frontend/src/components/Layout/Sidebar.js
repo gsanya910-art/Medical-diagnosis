@@ -10,9 +10,9 @@ import {
 
 const Sidebar = () => {
   const navigation = [
-    { name: "Overview", href: "/dashboard", icon: LayoutDashboard },
+    // { name: "Overview", href: "/dashboard", icon: LayoutDashboard },
     { name: "Diagnosis", href: "/dashboard/diagnosis", icon: Stethoscope },
-    { name: "Results", href: "/dashboard/results", icon: FileText },
+    // { name: "Results", href: "/dashboard/results", icon: FileText },
   ];
 
   return (
