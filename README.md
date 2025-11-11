@@ -14,4 +14,8 @@ For Backend setup
 3. install the python 3.11
 4. pip3 install -r requirements.txt
 5. Run the command uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
-6. Make sure add the .env content in root project directory
+7. Make sure add the .env content in root project directory
+
+<img width="1438" height="686" alt="Screenshot 2025-11-11 at 7 18 12 PM" src="https://github.com/user-attachments/assets/21c20911-b609-435a-8920-e64169d96ffa" />
+<img width="1440" height="683" alt="Screenshot 2025-11-11 at 7 17 48 PM" src="https://github.com/user-attachments/assets/75639a30-459b-483b-a0b8-eeb220f57bae" />
+<img width="1440" height="685" alt="Screenshot 2025-11-11 at 7 18 00 PM" src="https://github.com/user-attachments/assets/51e7dc41-841e-4d2e-9642-70e5a7871e76" />
